@@ -1,3 +1,3 @@
 # Pemrograman Web HTML | SCM
 
-Kumpulan hasil pembelajaran Pemrograman Web HTML | STMIK Citra Mandiri Padangsidempuan
+Kumpulan hasil pembelajaran mata kulian Pemrograman Web HTML di STMIK Citra Mandiri Padangsidempuan
