@@ -1,0 +1,34 @@
+html, body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* padding: 100px; */
+    margin: 10px 100px 100px;
+}
+
+:any-link{
+    text-decoration:none;
+}
+
+img {
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+}
+
+ol, ul {
+    list-style-type: none;
+    line-height: 30px;
+}
+
+.row {
+    width: 800px;
+    margin: 50px auto;
+    display: flex;
+}
+
+.tentang.saya {
+    padding-left: 40px;
+}
+
+.caption {  
+    text-align: center;
+}
