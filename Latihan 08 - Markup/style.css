@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(194, 207, 207);
+}
+
+#wrapper {
+    width: 780px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+#header {
+    background: rgb(152, 119, 192);
+    height: 70px;
+    width: 100%;
+    padding: 5px;
+    margin: 20px 0;
+    overflow: hidden;
+}
+
+/* #header img {
+    width: 130px;
+    height: 35px;
+} */
+
+#menu-utama {
+    margin-top: top;
+    list-style: none;
+}
+
+#menu-utama li {
+    float: left;
+    padding: 8px 20px;
+    border-right: 1px solid #555555;
+    font-weight: bold;
+    color: white;
+}
+
+#menu-utama li a {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+#header form {
+    float: right;
+    margin-top: 7px;
+    margin-right: 10px;
+    /* margin-bottom: 20px; */
+}
+
+#header form input {
+    border: none;
+    height: 20px;
+}
+
+#daftar-artikel {
+    width: 470px;
+    float: left;
+}
