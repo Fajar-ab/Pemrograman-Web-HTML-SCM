@@ -16,17 +16,17 @@ body {
 
 #header {
     background: rgb(152, 119, 192);
-    height: 70px;
+    height: 80px;
     width: 100%;
     padding: 5px;
     margin: 20px 0;
     overflow: hidden;
 }
 
-/* #header img {
-    width: 130px;
-    height: 35px;
-} */
+ #header img {
+    width: 40px;
+    height: 40px;
+} 
 
 #menu-utama {
     margin-top: top;
@@ -62,4 +62,60 @@ body {
 #daftar-artikel {
     width: 470px;
     float: left;
+}
+
+.artikel {
+    background: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.artikel img {
+    float: left;
+    margin-right: 10px;
+    width: 450px;
+    height: 300px;
+}
+
+.artikel i {
+    color: #626060;
+    background-color: #ddd;
+    padding: 3px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+#sidebar {
+    width: 270px;
+    float: right;
+}
+
+#sidebar h2{
+    font-size: 18px;
+    margin: 10px;
+}
+
+#sidebar p {
+    line-height: 20px;
+    color: #636363;
+}
+
+#sidebar ul {
+    margin-left: 20px;
+}
+
+#sidebar ul li a {
+    color: #636363;
+    text-decoration: none;
+}
+
+#footer {
+    clear: both;
+    margin: 20px 0;
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 5px;
+    color: #555555;
 }
